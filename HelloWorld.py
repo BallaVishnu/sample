@@ -1,1 +1,1 @@
-print("Change done, Hello World")
+print("Hello from webhook!")
